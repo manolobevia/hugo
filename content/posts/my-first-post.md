@@ -1,7 +1,6 @@
 ---
 title: My second Post
 date: 2021-04-29T08:43:45.000-04:00
-draft: true
 
 ---
 Hi,
